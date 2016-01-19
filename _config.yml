@@ -1,0 +1,28 @@
+name: BigTreeMovies
+favicon: null
+layout_spectrum: 0.9740435425192118
+typography_spectrum: 0.717107001459226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8773501911200583
+  lightness: 0.013811205746605992
+  saturation: 0.580224592005834
+  rhythmicContrast: 0.2808439936488867
+purpose: []
