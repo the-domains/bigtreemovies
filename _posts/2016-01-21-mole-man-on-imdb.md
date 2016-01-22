@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://m.imdb.com'
-  name: IMDb
-  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/mobile/android-mobile-196x196-1358942022._CB361295825_.png'
-  domain: m.imdb.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - mugg
   - inherited
@@ -18,17 +16,21 @@ keywords:
   - belmont
   - mole
 description: "The Mugg Brothers inherit an apartment building with a monster living in the basement that's eating everything in sight."
-inLanguage: en
+datePublished: '2016-01-22T16:17:32.902Z'
+dateModified: '2016-01-22T16:17:29.853Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://m.imdb.com/title/tt1472192/'
 title: Mole Man on IMDb
-datePublished: '2016-01-21T20:36:13.864Z'
-dateModified: '2016-01-21T20:33:09.377Z'
 sourcePath: _posts/2016-01-21-mole-man-on-imdb.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: IMDb
+  domain: m.imdb.com
+  url: 'http://m.imdb.com'
+  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/mobile/android-mobile-196x196-1358942022._CB361295825_.png'
+url: mole-man-on-imdb/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
