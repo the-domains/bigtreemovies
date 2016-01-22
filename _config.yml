@@ -1,7 +1,7 @@
 name: BigTreeMovies
 favicon: null
 layout_spectrum: 0.5153
-typography_spectrum: 0.42663
+typography_spectrum: 0.26191
 title: Big Tree Productions
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#dbdbdb'
     - '#7b7b7b'
   brandStrength: 0.625
-  lightness: 0.125
+  lightness: 0.375
   saturation: 0.3125
-  rhythmicContrast: 0.2808439936488867
+  rhythmicContrast: 0.25
 purpose: []
