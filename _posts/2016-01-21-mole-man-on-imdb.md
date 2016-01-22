@@ -16,7 +16,7 @@ keywords:
   - belmont
   - mole
 description: "The Mugg Brothers inherit an apartment building with a monster living in the basement that's eating everything in sight."
-datePublished: '2016-01-22T16:17:32.902Z'
+datePublished: '2016-01-22T16:17:32.974Z'
 dateModified: '2016-01-22T16:17:29.853Z'
 author: []
 related: []
